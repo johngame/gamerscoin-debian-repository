@@ -1,0 +1,9 @@
+Package: gamerscoind
+Version: 1.0
+Section: Network
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: gamers-coin.org
+Description: Install Gamerscoin Gaming Currency Daemon from Last Source from Github.
