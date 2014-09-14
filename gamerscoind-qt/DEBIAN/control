@@ -1,0 +1,10 @@
+Package: gamerscoin-qt
+Version: 1.0
+Section: Network
+Priority: optional
+Architecture: all
+Essential: no
+Depends: libqtgui4,libqt4-network
+Installed-Size: 1024
+Maintainer: gamers-coin.org
+Description: Install Gamerscoin-QT Gaming Currency Desktop Client.
